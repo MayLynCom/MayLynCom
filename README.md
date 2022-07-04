@@ -1,0 +1,5 @@
+- 👋 oi, Eu sou @MayLynCom
+- 👀 Estou interessado em aprender e trabalhar com Flutter
+- 🌱 Estou atualmente Aprendendo Flutter/Dart
+- 💞️ Estou procurando trabalhar com empresas que utilizem Flutter 
+- 📫 Como me encontrar mayconsouza0712@outlook.com.

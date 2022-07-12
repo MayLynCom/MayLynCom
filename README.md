@@ -1,4 +1,4 @@
-- 👋 oi, Eu sou @MayLynCom
+- 👋 oi, Eu sou Maycon Lycon
 - 👀 Estou interessado em aprender e trabalhar com Flutter
 - 🌱 Estou atualmente Aprendendo HTML/CSS, Python e Flutter/Dart
 - 💞️ Estou procurando trabalhar com empresas que utilizem Flutter 

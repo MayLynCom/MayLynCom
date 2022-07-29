@@ -1,8 +1,8 @@
 - 👋 oi, Eu sou Maycon Lyncon
-- 👀 Estou interessado em aprender e trabalhar com Flutter
-- 🌱 Estou atualmente Aprendendo HTML/CSS, Python e Flutter/Dart
-- 💻Estou procurando trabalhar com empresas que utilizem Flutter 
-- 📫 Como me encontrar mayconsouza0712@outlook.com.
+- 👀 Interessado em aprender e trabalhar com Flutter
+- 🌱 Atualmente Aprendendo HTML/CSS, Python e Flutter/Dart
+- 💻 Procurando trabalhar com empresas que utilizem Flutter 
+- 📫 Como me encontrar: mayconsouza0712@outlook.com.
 
 <div align="center">
   <a href="https://github.com/MayLynCom">

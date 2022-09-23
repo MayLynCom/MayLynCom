@@ -1,13 +1,9 @@
-- 👋 oi, Eu sou Maycon Lyncon
-- 👀 Interessado em aprender e trabalhar com Flutter
-- 🌱 Atualmente Aprendendo Flutter/Dart
-- 💻 Procurando trabalhar com empresas que utilizem Flutter 
-- 📫 Como me encontrar: mayconsouza0712@outlook.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Maycon+Lyncon;I'm+21+years+old;I+from+Brasil,+SP;I+study+Flutter/Dart;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/MayLynCom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayLynCom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayLynCom&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayLynCom&show_icons=truecount_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayLynCom&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
 <div style="display: inline_block"><br>
